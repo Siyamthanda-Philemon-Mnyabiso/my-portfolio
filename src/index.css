@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    padding: 20px;
+}
+
+.projects {
+    margin-top: 40px;
+}
+
+.project-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
